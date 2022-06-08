@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/boris-quiz/static/css/main.9fed314e.css",
-    "main.js": "/boris-quiz/static/js/main.97aa2d02.js",
+    "main.js": "/boris-quiz/static/js/main.5f3cc5f8.js",
     "static/js/787.ddf53603.chunk.js": "/boris-quiz/static/js/787.ddf53603.chunk.js",
     "static/media/fa-solid-900.svg": "/boris-quiz/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/boris-quiz/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -22,11 +22,11 @@
     "static/media/arrow_left.svg": "/boris-quiz/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
     "static/media/arrow_right.svg": "/boris-quiz/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
     "main.9fed314e.css.map": "/boris-quiz/static/css/main.9fed314e.css.map",
-    "main.97aa2d02.js.map": "/boris-quiz/static/js/main.97aa2d02.js.map",
+    "main.5f3cc5f8.js.map": "/boris-quiz/static/js/main.5f3cc5f8.js.map",
     "787.ddf53603.chunk.js.map": "/boris-quiz/static/js/787.ddf53603.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fed314e.css",
-    "static/js/main.97aa2d02.js"
+    "static/js/main.5f3cc5f8.js"
   ]
 }
