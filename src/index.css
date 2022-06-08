@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+header {
+  margin-left: 10%;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+input {
+  margin-top: 10px;
+}
+
+.submit {
+  background-color: #008CBA;
+  border: none;
+  border-radius: 5px;
+  width: 90%;
+  height: 40px;
+  margin-bottom: 10px;
+} 
+
+
+.submit:active {
+  background-color: #008bbaa0;
+}
+
+.about {
+  width: 50%;
+}
+
+.question {
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 50%;
+  margin-bottom: 10px;
+  padding: 10px 0 15px 0;
+}
+
+@media (min-width: 600px) {
+  .question {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 10px 0 15px 0;
+  }
+}
+
+.questions {
+  margin-left: 10%;
+  margin-top: 3%;
+}
+
+.flex-container {
+  display: block;
+}
+@media (min-width: 600px) {
+  .flex-container {
+    display: flex; /* This is how it looks on desktop */
+  }
+}
+
+@media (min-width: 600px) {
+  .flex-child-q {
+    flex: 1; /* This is how it looks on desktop */
+  }
+}
+
+img {
+  display: block;
+  padding-bottom: 20px;
+  display: none; /* This is how it looks on mobile */
+}
+
+.img-1 {
+  margin-top: 10rem
+}
+
+@media (min-width: 600px) {
+  img {
+    display: block; /* This is how it looks on desktop */
+  }
+}
